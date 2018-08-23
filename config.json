@@ -1,6 +1,6 @@
 {
-	"name": "New Blank Mautic Theme",
+	"name": "New Blank",
 	"author": "Alan Mosko",
-	"authorUrl": "https://alanmosko.com.br/",
+	"authorUrl": "https://github.com/moskoweb/New-Blank-Mautic-Theme",
 	"features": ["page", "email", "form"]
 }
