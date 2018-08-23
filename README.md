@@ -1,0 +1,1 @@
+# New Blank Mautic Theme
