@@ -6,7 +6,7 @@ A simple and sophisticated format template, maintaining simplicity, but with all
 
 ## Install
 
-All you have to do is download the zip file, access ```Settings > Themes```, and upload the theme.
+All you have to do is download the [zip file](https://github.com/moskoweb/New-Blank-Mautic-Theme/raw/master/New-Blank-Mautic-Theme.zip), access ```Settings > Themes```, and upload the theme.
 
 ---
 
@@ -18,4 +18,4 @@ Um template de formato simples e sofisticado, mantendo a simplicidade, mas com t
 
 ## Instalação
 
-Basta apenas que você faça o download do aquivo zip, acessar ```Configurações > Temas```, e fazer o upload do tema.
+Basta apenas que você faça o download do [arquivo zip](https://github.com/moskoweb/New-Blank-Mautic-Theme/raw/master/New-Blank-Mautic-Theme.zip), acessar ```Configurações > Temas```, e fazer o upload do tema.
